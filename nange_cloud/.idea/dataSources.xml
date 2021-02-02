@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="cloud_sample@localhost" uuid="d22b2e1a-19bb-4b75-ac83-27332d44470c">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/cloud_sample?serverTimezone=GMT&amp;useUnicode=true&amp;characterEncoding=UTF8</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="cloud_admin_v1@localhost" uuid="a433e625-8513-43e1-9ce6-3362ecac60e4">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/cloud_admin_v1?serverTimezone=GMT&amp;useUnicode=true&amp;characterEncoding=UTF8</jdbc-url>
+    </data-source>
+  </component>
+</project>
